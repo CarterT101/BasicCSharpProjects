@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.pdb
