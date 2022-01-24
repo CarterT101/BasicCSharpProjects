@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\bin\Debug\Hello World.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\obj\Debug\Hello World.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Hello World\obj\Debug\Hello World.pdb

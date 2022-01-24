@@ -1,0 +1,6 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
