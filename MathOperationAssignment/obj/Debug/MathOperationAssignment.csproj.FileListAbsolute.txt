@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\bin\Debug\MathOperationAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\obj\Debug\MathOperationAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathOperationAssignment\obj\Debug\MathOperationAssignment.pdb
