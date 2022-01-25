@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.pdb

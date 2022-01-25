@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\obj\Debug\IfStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\bin\Debug\IfStatementPractice.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\bin\Debug\IfStatementPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\bin\Debug\IfStatementPractice.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\obj\Debug\IfStatementPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\obj\Debug\IfStatementPractice.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\IfStatementPractice\obj\Debug\IfStatementPractice.csproj.AssemblyReference.cache
