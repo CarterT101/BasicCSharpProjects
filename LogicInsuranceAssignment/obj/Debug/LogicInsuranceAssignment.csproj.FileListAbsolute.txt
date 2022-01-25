@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\obj\Debug\LogicInsuranceAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\obj\Debug\LogicInsuranceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\bin\Debug\LogicInsuranceAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\bin\Debug\LogicInsuranceAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\bin\Debug\LogicInsuranceAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\obj\Debug\LogicInsuranceAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LogicInsuranceAssignment\obj\Debug\LogicInsuranceAssignment.pdb
