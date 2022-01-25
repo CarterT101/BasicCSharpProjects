@@ -24,8 +24,8 @@ namespace MathComparisonAssignment
             string hoursWorked2 = Console.ReadLine();
             int hourWork2 = Convert.ToInt32(hoursWorked2);
 
-            int salary1 = (hourRate1 * hourWork1) * 4 * 52; //multiplying by 4 for 4 weeks in a month and 52 for 52 weeks in a year
-            int salary2 = (hourRate2 * hourWork2) * 4 * 52;
+            int salary1 = (hourRate1 * hourWork1) * 52; //multiplying by 52 for 52 weeks in a year
+            int salary2 = (hourRate2 * hourWork2) * 52;
             bool salaryCompare = salary1 > salary2; 
 
             Console.WriteLine("Annual Salary of Person 1: " + salary1);

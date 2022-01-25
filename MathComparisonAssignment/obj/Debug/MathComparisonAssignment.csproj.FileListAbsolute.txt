@@ -4,3 +4,4 @@ C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathComparisonAssignment\bin
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathComparisonAssignment\obj\Debug\MathComparisonAssignment.csproj.CoreCompileInputs.cache
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathComparisonAssignment\obj\Debug\MathComparisonAssignment.exe
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathComparisonAssignment\obj\Debug\MathComparisonAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MathComparisonAssignment\obj\Debug\MathComparisonAssignment.csproj.AssemblyReference.cache
