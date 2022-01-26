@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\bin\Debug\WhileStatementPractice.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\bin\Debug\WhileStatementPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\bin\Debug\WhileStatementPractice.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\obj\Debug\WhileStatementPractice.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\obj\Debug\WhileStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\obj\Debug\WhileStatementPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\WhileStatementPractice\obj\Debug\WhileStatementPractice.pdb
