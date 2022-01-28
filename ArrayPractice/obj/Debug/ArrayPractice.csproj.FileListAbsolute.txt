@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\bin\Debug\ArrayPractice.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\bin\Debug\ArrayPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\bin\Debug\ArrayPractice.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\obj\Debug\ArrayPractice.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\obj\Debug\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\obj\Debug\ArrayPractice.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayPractice\obj\Debug\ArrayPractice.pdb

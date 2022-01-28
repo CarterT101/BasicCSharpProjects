@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
