@@ -11,123 +11,127 @@ namespace ConsoleAppAssignment
         static void Main(string[] args)
         {
 
-            ////Part 1
-            //string[] stringArray = new string[5];
-            //stringArray[0] = "Hello there, ";
-            //stringArray[1] = "Your name is ";
-            //stringArray[2] = "This person is cool: ";
-            //stringArray[3] = "Great job, ";
-            //stringArray[4] = "You are my friend, ";
+            //Part 1
+            string[] stringArray = new string[5]; //make string array
+            stringArray[0] = "Hello there, ";
+            stringArray[1] = "Your name is "; //add to array
+            stringArray[2] = "This person is cool: ";
+            stringArray[3] = "Great job, ";
+            stringArray[4] = "You are my friend, ";
 
-            //Console.WriteLine("Write your name:");
-            //string yourName = Console.ReadLine();
+            Console.WriteLine("Write your name:");
+            string yourName = Console.ReadLine();
 
-            //for (int i = 0; i < stringArray.Length; i++)
-            //{
-            //    stringArray[i] = stringArray[i] + yourName;
-            //    Console.WriteLine(stringArray[i]);
-            //}
+            for (int i = 0; i < stringArray.Length; i++) //for every item in the array, concatinate a string from the user input and item in list
+            {
+                stringArray[i] = stringArray[i] + yourName;
+                Console.WriteLine(stringArray[i]);
+            }
 
-            ////part 2
+            //part 2
 
-            //bool isGuessed = false;
+            bool isGuessed = false;
 
-            //while (!isGuessed)
-            //{
-            //    Console.WriteLine("\nHello");
-            //    isGuessed = true; //get rid of this to make infinite loop
-            //}
+            while (!isGuessed) //while isGuessed is false, print 'Hello', which gets stopped by selling isGuessed to true after the first time around the while loop
+            {
+                Console.WriteLine("\nHello");
+                isGuessed = true; //get rid of this to make infinite loop
+            }
 
-            ////part 3 
+            //part 3 
 
-            //int j = 0;
-            //while (j < 5)
-            //{
-            //    Console.WriteLine("Hello, " + yourName);
-            //    j++;
-            //}
+            int j = 0;
+            while (j < 5) //while iteration j is less than 5, print hello 'variable' to the console
+            {
+                Console.WriteLine("Hello, " + yourName);
+                j++;
+            }
 
-            //int f = 0;
-            //while (f <= 10)
-            //{
-            //    Console.WriteLine(f);
-            //    f++;
-            //}
+            int f = 0; 
+            while (f <= 10) //counts to 10 by making a while loop that prints until iteration f is less than or equal to 10
+            {
+                Console.WriteLine(f);
+                f++;
+            }
 
-            ////part 4 
+            //part 4 
 
-            //List<string> stringList1 = new List<string>() { "This", "is", "a", "string", "list" };
+            List<string> stringList1 = new List<string>() { "This", "is", "a", "string", "list" }; //making a list with all unique items that will be iterated through 
 
-            //foreach (string i in stringList1)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            foreach (string i in stringList1)
+            {
+                Console.WriteLine(i);
+            }
 
-            //Console.WriteLine("Input text to find in list");
-            //string stringChoice1 = Console.ReadLine();
-            //bool found1 = false;
+            Console.WriteLine("Input text to find in list"); //a user can find an item in the string listed above in the console 
+            string stringChoice1 = Console.ReadLine();      // by searching for it and it will print the index number
+            bool found1 = false;
 
-            //for (int k = 0; k < stringList1.Count; k++)
-            //{
-            //    if (stringList1[k] == stringChoice1)
-            //    {
-            //        Console.WriteLine("Found it at index: " + k);
-            //        found1 = true;
-            //        break;
-            //    }
-            //}
+            for (int k = 0; k < stringList1.Count; k++)
+            {
+                if (stringList1[k] == stringChoice1)
+                {
+                    Console.WriteLine("Found it at index: " + k);
+                    found1 = true;
+                    break;
+                }
+            }
 
-            //if (!found1)
-            //{
-            //    Console.WriteLine(stringChoice1 + " was not found");
-            //}
+            if (!found1)
+            {
+                Console.WriteLine(stringChoice1 + " was not found");
+            }
 
-            ////part 5
+            //part 5
 
-            //List<string> stringList = new List<string>() { "This", "is", "a", "string", "list", "string" };
+            List<string> stringList = new List<string>() { "This", "is", "a", "string", "list", "string" }; //makes a list with duplicate items and will find that item
+                                                                                                            // at both index spots
+            foreach (string i in stringList)
+            {
+                Console.WriteLine(i);
+            }
 
-            //foreach (string i in stringList)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            Console.WriteLine("Input text to find in list");
+            string stringChoice = Console.ReadLine();
+            bool found = false;
 
-            //Console.WriteLine("Input text to find in list");
-            //string stringChoice = Console.ReadLine();
-            //bool found = false;
-            
-            //for (int k = 0; k < stringList.Count; k++)
-            //{
-            //    if (stringList[k] == stringChoice)
-            //    {
-            //        Console.WriteLine("Found it at index: " + k);
-            //        found = true;
-            //    }
-            //}
+            for (int k = 0; k < stringList.Count; k++)
+            {
+                if (stringList[k] == stringChoice)
+                {
+                    Console.WriteLine("Found it at index: " + k);
+                    found = true;
+                }
+            }
 
-            //if (!found)
-            //{
-            //    Console.WriteLine(stringChoice + " was not found");
-            //}
+            if (!found)
+            {
+                Console.WriteLine(stringChoice + " was not found");
+            }
 
             //part 6
 
-            List<string> stringList3 = new List<string>() { "Computers", "Computers", "are", "very", "very", "cool" };
-            List<string> checkList = new List<string>();
+            List<string> stringList3 = new List<string>() { "Computers", "Computers", "are", "very", "very", "cool" }; 
+            List<string> checkList = new List<string>();                //list with duplicates and creating a new list that will help get rid of the duplicates in previous list
+             
 
-            checkList = stringList3.Distinct().ToList();
-
-            foreach (string s in checkList)
+            foreach (string s in stringList3) //for every item in stringList3, 
             {
-                for(int i = 0; i < stringList3.Count; i++)
+                if (checkList.Contains(s))  //check if the second list contains it, if it does contain said item, print something to the console
                 {
-                    if (stringList3[i] == s)
-                    {
-                        Console.WriteLine("\"" + stringList3[i] + "\"" + " is already in the list");
-                    }
+                    Console.WriteLine("The item " + s + " has appeared before.");
                 }
-                Console.WriteLine(s);
+                else //if it is a new item, add it to the new list.
+                {
+                    checkList.Add(s);
+                }
+                
             }
 
+            foreach (string s in checkList) //iterates through list to print all the items to console
+            {
+                Console.WriteLine(s);
+            }
             
             Console.Read();
         }
