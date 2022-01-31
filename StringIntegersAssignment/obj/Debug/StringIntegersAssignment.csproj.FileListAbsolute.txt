@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\bin\Debug\StringIntegersAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\bin\Debug\StringIntegersAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\bin\Debug\StringIntegersAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\obj\Debug\StringIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\obj\Debug\StringIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\obj\Debug\StringIntegersAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StringIntegersAssignment\obj\Debug\StringIntegersAssignment.pdb
