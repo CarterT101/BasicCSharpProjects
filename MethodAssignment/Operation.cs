@@ -8,7 +8,7 @@ namespace MethodAssignment
 {
     public class Operation
     {
-        public int Multi(int mult, int mult1)
+        public int Multi(int mult, int mult1 = 5) //setting default value to 5 if not chosen
         {
             return mult * mult1;
         }

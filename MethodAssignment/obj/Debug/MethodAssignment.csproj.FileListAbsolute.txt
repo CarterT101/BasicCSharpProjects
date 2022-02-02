@@ -4,3 +4,4 @@ C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignment\bin\Debug\M
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignment\obj\Debug\MethodAssignment.exe
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignment\obj\Debug\MethodAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
