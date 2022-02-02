@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\bin\Debug\MethodAssignmentDraft2.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\bin\Debug\MethodAssignmentDraft2.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\bin\Debug\MethodAssignmentDraft2.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\obj\Debug\MethodAssignmentDraft2.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\obj\Debug\MethodAssignmentDraft2.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\obj\Debug\MethodAssignmentDraft2.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\MethodAssignmentDraft2\obj\Debug\MethodAssignmentDraft2.pdb

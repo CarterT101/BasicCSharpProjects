@@ -12,9 +12,10 @@ namespace MethodAssignment2
         {
             Operation oper = new Operation();
 
-            int result = oper.Multi(10, 5);
+            oper.Multi(10, 5);
+            oper.Multi(mult1: 10, mult: 4);
+            Console.Read();
 
-            result = oper.Multi(mult: 10, mult1: 5);
         }
     }
 }
