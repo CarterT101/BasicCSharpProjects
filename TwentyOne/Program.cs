@@ -10,15 +10,30 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck(); //deck object that has property cards should have 52 cards
-            deck.Shuffle(3);
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Carter", "Evan", "Kenn" };
+            //game.ListPlayers(); //calling the superclass method 'game'
+            //                    //superclass meaning 'a method that has been inherited from another class'
+            
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+
+
+
+
+
+            //Deck deck = new Deck(); //deck object that has property cards should have 52 cards
+            //deck.Shuffle(3);
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+
+
+
             Console.Read();
+
         }
     }
 }
