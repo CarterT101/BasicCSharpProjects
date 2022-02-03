@@ -24,7 +24,15 @@ namespace ClassAssignment
             int yourNum1 = Convert.ToInt32(Console.ReadLine());
             int result = oper.Mult(yourNum, yourNum1); //Overloaded method and printing it next line
 
-            Console.WriteLine("This is your result if the first inputted number multiplied by second inputted number:\n{0}", result);
+            Console.WriteLine("This is your result of the first inputted number multiplied by second inputted number:\n{0}", result);
+
+
+            Console.WriteLine("Input another number");
+            yourNum = Convert.ToInt32(Console.ReadLine());
+
+            result = oper.Subt(yourNum, out yourNum1);
+
+
 
             Console.WriteLine("Input another number");
             yourNum = Convert.ToInt32(Console.ReadLine());
