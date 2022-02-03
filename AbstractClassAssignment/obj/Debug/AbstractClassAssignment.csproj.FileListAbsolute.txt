@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
