@@ -26,6 +26,12 @@ namespace ClassAssignment
             return result;
         }
 
+        public static int Times(int x = 5)
+        {
+            int result = x * 10;
+            return result;
+        }
+
         
     }
 }
