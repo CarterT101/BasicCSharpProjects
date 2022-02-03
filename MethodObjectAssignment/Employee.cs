@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MethodObjectAssignment
 {
-    class Employee : Person
+    class Employee : Person //instance
     {
-        public int Id { get; set; }
+        public int Id { get; set; } //new property
     }
 }

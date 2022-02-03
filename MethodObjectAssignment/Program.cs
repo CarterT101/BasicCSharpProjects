@@ -10,12 +10,12 @@ namespace MethodObjectAssignment
     {
         static void Main(string[] args)
         {
-            Employee empl = new Employee();
+            Employee empl = new Employee(); //instance of inherited class
 
             empl.FirstName = "Sample";
             empl.LastName = "Student";
 
-            empl.SayName();
+            empl.SayName(); //superclass method
 
             Console.Read();
 

@@ -8,10 +8,10 @@ namespace MethodObjectAssignment
 {
     class Person
     {
-        public string FirstName { get; set; }
+        public string FirstName { get; set; } //property data type string
         public string LastName { get; set; }
 
-        public void SayName()
+        public void SayName() //method 
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
