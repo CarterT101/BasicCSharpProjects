@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    class Program
+    public class Program 
     {
         static void Main(string[] args)
         {
@@ -15,6 +15,8 @@ namespace AbstractClassAssignment
             employee.lastName = "Student";
 
             employee.SayName(); //calling method
+            employee.Quit(); 
+
             Console.Read();
         }
     }

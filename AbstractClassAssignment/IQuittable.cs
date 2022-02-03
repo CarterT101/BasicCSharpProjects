@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolyMorphAssignment
+namespace AbstractClassAssignment
 {
-    interface IQuittable
+    interface IQuittable 
     {
         void Quit();
     }
