@@ -8,9 +8,14 @@ namespace TwentyOne
 {
     public class TwentyOneGame : Game //INHERITANCE 
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers() //virtual method testing
+        {
+            Console.WriteLine("21 Players: ");
+            base.ListPlayers();
         }
     }
 }

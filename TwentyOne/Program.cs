@@ -14,11 +14,16 @@ namespace TwentyOne
             //game.Players = new List<string>() { "Carter", "Evan", "Kenn" };
             //game.ListPlayers(); //calling the superclass method 'game'
             //                    //superclass meaning 'a method that has been inherited from another class'
-            
+
+            //List<Game> games = new List<Game>();
+            ////Game game = new TwentyOneGame(); //polymorphism
+            //TwentyOneGame game = new TwentyOneGame(); 
+            //games.Add(game);
 
 
-
-
+            TwentyOneGame game = new TwentyOneGame(); //testing virtual method
+            game.Players = new List<string>() { "Jesse", "Bill", "Evan" };
+            game.ListPlayers();
 
 
             //Deck deck = new Deck(); //deck object that has property cards should have 52 cards

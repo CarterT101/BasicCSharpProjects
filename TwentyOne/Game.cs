@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         //the more generic you make your code the more features you can add to it later
 
@@ -14,7 +14,11 @@ namespace TwentyOne
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        public abstract void Play(); //abstract method can only exist inside abstract class, has no implementation
+                                     //it states that any class inheriting this class must impliment this method
+
+        public virtual void ListPlayers() //virtual method inside abstract class, means this method gets inherited
+                                          //by inheriting class but it has ability to override it
         {
             foreach (string player in Players)
             {
