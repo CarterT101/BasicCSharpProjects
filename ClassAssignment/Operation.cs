@@ -14,10 +14,10 @@ namespace ClassAssignment
             Console.WriteLine("This is your number divided by 2:\n{0}", result);
         }
 
-        public int Mult(int num)
+        public int Mult(int num = 3)
         {
             int result = num * 3;
-            Console.WriteLine("This is your number multiplied by 3:\n{0}", result);
+            Console.WriteLine("This is 3 multiplied by 3:\n{0}", result);
             return result;
         }
         public int Mult(int num, int num1)
@@ -26,11 +26,7 @@ namespace ClassAssignment
             return result;
         }
 
-        public static int Times(int x = 5)
-        {
-            int result = x * 10;
-            return result;
-        }
+        
 
         
     }

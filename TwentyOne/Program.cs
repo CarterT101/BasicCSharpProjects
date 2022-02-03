@@ -10,7 +10,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-
             Deck deck = new Deck(); //deck object that has property cards should have 52 cards
             deck.Shuffle(3);
 
@@ -18,21 +17,8 @@ namespace TwentyOne
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-
             Console.WriteLine(deck.Cards.Count);
             Console.Read();
         }
-
-        
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
-
     }
 }

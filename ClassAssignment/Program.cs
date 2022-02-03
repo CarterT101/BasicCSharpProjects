@@ -17,7 +17,7 @@ namespace ClassAssignment
 
             oper.Div(yourNum); //calling first method which has a WriteLine inside it
 
-            oper.Mult(yourNum); //calling second method that also has WriteLine in it
+            oper.Mult(); //calling second method that also has WriteLine in it
 
 
             Console.WriteLine("Input second number");
@@ -29,7 +29,7 @@ namespace ClassAssignment
             Console.WriteLine("Input another number");
             yourNum = Convert.ToInt32(Console.ReadLine());
 
-            result = Operation.Times(yourNum); //static method calling 
+            result = Multiplication.Times(yourNum); //static method calling 
             Console.WriteLine("This is your number times 10:\n{0}", result);
 
             Console.Read();
