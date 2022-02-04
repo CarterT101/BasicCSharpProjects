@@ -1,0 +1,6 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.pdb
