@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
