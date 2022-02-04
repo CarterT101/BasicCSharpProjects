@@ -10,16 +10,14 @@ namespace MethodObjectAssignment
     {
         public int Id { get; set; } //new property
 
-        public static bool operator == (Person person, Employee employee)
+        public static bool operator == (Employee empl, Employee empl1)
         {
-            bool answer = person == employee; //setting bool variable to check if person == employee id
-            return answer;
+            return empl.Id == empl1.Id;
         }
 
-        public static bool operator != (Person person, Employee employee) //if == is to be overloaded != should also be overloaded.
+        public static bool operator != (Employee empl, Employee empl1) //if == is to be overloaded != should also be overloaded.
         {
-            bool answer = person == employee;
-            return answer;
+            return empl.Id == empl1.Id;
         }
 
         public override bool Equals(object obj) //these are required for overloading previous two bool operator overloading

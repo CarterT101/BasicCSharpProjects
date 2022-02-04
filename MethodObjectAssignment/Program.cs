@@ -11,11 +11,27 @@ namespace MethodObjectAssignment
         static void Main(string[] args)
         {
             Employee empl = new Employee(); //instance of inherited class
+            Employee empl1 = new Employee();
 
             empl.FirstName = "Sample";
             empl.LastName = "Student";
-            
-            empl.SayName(); //superclass method
+            empl.Id = 1;
+
+            empl1.FirstName = "Sample1";
+            empl1.LastName = "Student1";
+            empl1.Id = 2;
+
+            //empl.SayName(); //superclass method
+
+            if (empl == empl1)
+            {
+                Console.WriteLine("They are equal");
+            }
+            else
+            {
+                Console.WriteLine("They are not equal");
+            }
+
 
             Console.Read();
 

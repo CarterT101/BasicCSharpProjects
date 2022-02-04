@@ -26,13 +26,12 @@ namespace TwentyOne
             //game.ListPlayers();
 
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Carter"; //setting variable Name = Carter
-            game = game + player; //in a way, this is our method
-            game -= player; //same way as writing the operator above just shorter
-
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Carter"; //setting variable Name = Carter
+            //game = game + player; //in a way, this is our method
+            //game -= player; //same way as writing the operator above just shorter
 
 
             Deck deck = new Deck(); //deck object that has property cards should have 52 cards
