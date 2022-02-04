@@ -10,23 +10,16 @@ namespace TwentyOne
     {
         public Deck() //constructor goes on top, assigns default values, constructor method name always same as class
         {
+            Cards = new List<Card>(); //constructor, called as soon as object is created
 
-            Cards = new List<Card>(); //constructor, called as soon as object is creaded,
-                                      //instantiate its property 'Cards' as an empty list of 'Cards'
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
+            for (int i = 0; i < 13; i++)
             {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-            foreach (string face in Faces)
-            {
-                foreach (string suit in Suits) //nested foreach loop
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);
+                    card.Face = (Face)i; //casting to face, i since i is an integer
+                    card.Suit = (Suit)j; //casting to suit, j
+                    Cards.Add(card); //adding card to Cards list
                 }
             }
         }
