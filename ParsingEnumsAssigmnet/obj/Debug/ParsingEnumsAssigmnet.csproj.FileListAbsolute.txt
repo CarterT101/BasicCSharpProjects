@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\bin\Debug\ParsingEnumsAssigmnet.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\bin\Debug\ParsingEnumsAssigmnet.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\bin\Debug\ParsingEnumsAssigmnet.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\obj\Debug\ParsingEnumsAssigmnet.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\obj\Debug\ParsingEnumsAssigmnet.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\obj\Debug\ParsingEnumsAssigmnet.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ParsingEnumsAssigmnet\obj\Debug\ParsingEnumsAssigmnet.pdb
