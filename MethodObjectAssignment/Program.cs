@@ -14,7 +14,7 @@ namespace MethodObjectAssignment
 
             empl.FirstName = "Sample";
             empl.LastName = "Student";
-
+            
             empl.SayName(); //superclass method
 
             Console.Read();
