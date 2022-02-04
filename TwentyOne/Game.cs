@@ -10,7 +10,7 @@ namespace TwentyOne
     {
         //the more generic you make your code the more features you can add to it later
 
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -20,7 +20,7 @@ namespace TwentyOne
         public virtual void ListPlayers() //virtual method inside abstract class, means this method gets inherited
                                           //by inheriting class but it has ability to override it
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }

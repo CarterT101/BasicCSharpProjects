@@ -21,21 +21,26 @@ namespace TwentyOne
             //games.Add(game);
 
 
-            TwentyOneGame game = new TwentyOneGame(); //testing virtual method
-            game.Players = new List<string>() { "Jesse", "Bill", "Evan" };
-            game.ListPlayers();
+            //TwentyOneGame game = new TwentyOneGame(); //testing virtual method
+            //game.Players = new List<string>() { "Jesse", "Bill", "Evan" };
+            //game.ListPlayers();
 
 
-            //Deck deck = new Deck(); //deck object that has property cards should have 52 cards
-            //deck.Shuffle(3);
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Carter"; //setting variable Name = Carter
+            game = game + player; //in a way, this is our method
+            game -= player; //same way as writing the operator above just shorter
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
+            Deck deck = new Deck(); //deck object that has property cards should have 52 cards
+            deck.Shuffle(3);
 
-
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
 
             Console.Read();
 
