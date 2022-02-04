@@ -6,17 +6,10 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    public struct Card
     {
-        //public Card() //constructor (method), if not assigned, these are the default values
-        //{
-        //    Suit = "Spades";
-        //    Face = "Two";
-        //}
-
         public Suit Suit { get; set; } //the card class has a property of data type 'string' called 'Suit
         //and you can get or set this property, and public means it is accessible to other parts of the program
-
         public Face Face { get; set; }
 
     }
@@ -43,4 +36,10 @@ namespace TwentyOne
         King,
         Ace
     }
+    //public Card() //constructor (method), if not assigned, these are the default values
+    //{
+    //    Suit = "Spades";
+    //    Face = "Two";
+    //}
+
 }

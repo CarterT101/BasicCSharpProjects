@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\StructAssignment\obj\Debug\StructAssignment.pdb

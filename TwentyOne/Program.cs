@@ -10,6 +10,19 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
+            Deck deck = new Deck(); //deck object that has property cards should have 52 cards
+
+            deck.Shuffle(3);
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
+
+            //EXAMPLES, TESTING, PRACTICE, ETC 
+
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string>() { "Carter", "Evan", "Kenn" };
             //game.ListPlayers(); //calling the superclass method 'game'
@@ -33,16 +46,46 @@ namespace TwentyOne
             //game = game + player; //in a way, this is our method
             //game -= player; //same way as writing the operator above just shorter
 
+            //Card card1 = new Card();
+            //Card card2 = card1; //sets card2 equal to card1 //we basically just gave card2 the address to card1 for memory
+            ////before Card was class, but now that card class is struct, card1 is its on instance not relating to card2. 
+            //card1.Face = Face.Eight; //sets card1 to eight
+            //card2.Face = Face.King;  //overwrites card1 with card2 face king
+
+            //Console.WriteLine(card1.Face);
 
 
-            Deck deck = new Deck(); //deck object that has property cards should have 52 cards
-            deck.Shuffle(3);
+            //int counter = 0;
+            //foreach (Card card in deck.Cards)
+            //{
+            //    if (card.Face == Face.Ace)
+            //    {
+            //        counter++;
+            //    }
+            //} //this can be translated into lambda function below
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+
+
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace); //Cards is a list, Count() is a lambda function
+            ////this is counting how many Ace in it and assigning it to variable int count
+            ////x represents each element in list
+            //// '=>' basically means evaluate this on each item
+            //Console.WriteLine(count);
+
+
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList(); //where the face = king and map it to new list
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+
+
+            //List<int> numberList = new List<int>() { 1, 2, 3, 5, 6, 8, 123, 7 };
+            //int sum = numberList.Sum();
+            //Console.WriteLine(sum);
+
 
             Console.Read();
 
