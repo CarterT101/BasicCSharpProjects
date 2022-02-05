@@ -21,7 +21,9 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\hoove\Documents\log.txt", true)) //true tells it to append stuff to file
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
+
             }
             Deck.Cards.RemoveAt(0); //RemoveAt() built in list method that removes at the index 
             

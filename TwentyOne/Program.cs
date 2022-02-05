@@ -17,7 +17,14 @@ namespace TwentyOne
             //File.WriteAllText(@"C:\Users\hoove\Documents\logs.txt", text); //creating file, or adding to file there and adding the text from variable
             //string text = File.ReadAllText(@"C:\Users\hoove\Documents\logs.txt"); //reads created text
 
+            //DATETIME TESTING
 
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth; // timespan gives time in days
+
+            
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today");

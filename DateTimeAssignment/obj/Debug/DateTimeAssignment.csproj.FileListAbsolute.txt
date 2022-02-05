@@ -1,0 +1,6 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb

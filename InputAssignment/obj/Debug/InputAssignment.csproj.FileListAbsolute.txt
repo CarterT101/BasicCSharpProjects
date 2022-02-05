@@ -1,0 +1,6 @@
+C:\Users\hoove\source\repos\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\hoove\source\repos\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\hoove\source\repos\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\hoove\source\repos\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\source\repos\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\hoove\source\repos\InputAssignment\obj\Debug\InputAssignment.pdb
