@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -25,8 +26,10 @@ namespace TwentyOne
 
             //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth; // timespan gives time in days
 
-            
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+
+            const string casinoName = "Grand Hotel and Casino";
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -35,6 +38,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\hoove\Documents\players.txt", true))
+                {
+                    file.WriteLine(playerName + " " + player.Id); //creating unique id
+                }
                 Game game = new TwentyOneGame(); //polymorphism
                 game += player; //adding player to the game
                 player.isActivelyPlaying = true;

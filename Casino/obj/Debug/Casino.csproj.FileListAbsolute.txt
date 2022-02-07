@@ -1,0 +1,5 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Casino\bin\Debug\Casino.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Casino\bin\Debug\Casino.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Casino\obj\Debug\Casino.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Casino\obj\Debug\Casino.pdb

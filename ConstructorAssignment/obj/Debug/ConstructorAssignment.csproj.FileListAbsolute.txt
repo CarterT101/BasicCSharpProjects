@@ -1,0 +1,6 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
