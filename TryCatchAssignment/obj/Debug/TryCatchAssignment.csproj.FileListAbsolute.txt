@@ -1,0 +1,7 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
