@@ -48,8 +48,56 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,QUOTE")] Table table)
         {
+
             if (ModelState.IsValid)
             {
+               
+                    double quoteAmount = 50;
+
+                    
+                        int theirAge = (DateTime.Now.Year - table.DateOfBirth.Year);
+                        if (theirAge <= 18)
+                        {
+                            quoteAmount += 100;
+                        }
+                        else if (theirAge > 18 && theirAge < 25)
+                        {
+                            quoteAmount += 50;
+                        }
+                        else
+                        {
+                            quoteAmount += 25;
+                        }
+                        if (table.CarYear < 2000)
+                        {
+                            quoteAmount += 25;
+                        }
+                        else if (table.CarYear >= 2015)
+                        {
+                            quoteAmount += 25;
+                        }
+                        if (table.CarMake == "Porsche")
+                        {
+                            quoteAmount += 25;
+                            if (table.CarModel == "911 Carrera")
+                            {
+                                quoteAmount += 25;
+                            }
+                        }
+                        for (int i = 0; i < table.SpeedingTickets; i++)
+                        {
+                            quoteAmount += 10;
+                        }
+                        if (table.DUI)
+                        {
+                            quoteAmount *= 1.25;
+                        }
+                        if (table.CoverageType)
+                        {
+                            quoteAmount *= 1.50;
+                        }
+                        table.QUOTE = Convert.ToDecimal(quoteAmount);
+
                 db.Tables.Add(table);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -113,6 +161,12 @@ namespace CarInsurance.Controllers
             db.Tables.Remove(table);
             db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Admin()
+        {
+
+            return View(db.Tables.ToList());
         }
 
         protected override void Dispose(bool disposing)

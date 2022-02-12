@@ -1,0 +1,42 @@
+﻿@using CarInsurance.Models
+@model IEnumerable<CarInsurance.Models.Table>
+
+
+
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<div class="row no-gutters m-4">
+    <div class="card col-md-10">
+        <div class="card-header text-center">
+            <h5 class="m-1">Calculate</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var quote in Model)
+            {
+                using (Html.BeginForm("Admin", "Insuree", FormMethod.Post))
+                {
+                    <input type="hidden" name="Id" value="@quote.Id" />
+                    <div class="row mb-2">
+                        <div class="col">
+                            @quote.FirstName
+                        </div>
+                        <div class="col">
+                            @quote.LastName
+                        </div>
+                        <div class="col">
+                            @quote.EmailAddress
+                        </div>
+                        <div class="col">
+                            @quote.QUOTE
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
