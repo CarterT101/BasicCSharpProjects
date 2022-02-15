@@ -1,0 +1,14 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
