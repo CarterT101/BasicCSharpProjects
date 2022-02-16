@@ -46,3 +46,5 @@ C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj\Debug\netcoreapp3.1\FinalChallengeAssignment.dll
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj\Debug\netcoreapp3.1\FinalChallengeAssignment.pdb
 C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj\Debug\netcoreapp3.1\FinalChallengeAssignment.genruntimeconfig.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj\Debug\netcoreapp3.1\staticwebassets\FinalChallengeAssignment.StaticWebAssets.xml
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalChallengeAssignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalChallengeAssignment.styles.css
