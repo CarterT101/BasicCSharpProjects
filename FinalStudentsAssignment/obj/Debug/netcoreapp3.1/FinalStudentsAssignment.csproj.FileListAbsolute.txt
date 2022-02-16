@@ -1,0 +1,17 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.deps.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.runtimeconfig.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.runtimeconfig.dev.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\FinalStudentsAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.AssemblyInfoInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.AssemblyInfo.cs
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.csproj.CopyComplete
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\FinalStudentsAssignment\obj\Debug\netcoreapp3.1\FinalStudentsAssignment.genruntimeconfig.cache
