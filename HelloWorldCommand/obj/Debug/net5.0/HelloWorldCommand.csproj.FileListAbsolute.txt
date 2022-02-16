@@ -1,0 +1,16 @@
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.exe
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.deps.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.runtimeconfig.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.runtimeconfig.dev.json
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\ref\HelloWorldCommand.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\bin\Debug\net5.0\HelloWorldCommand.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.csproj.AssemblyReference.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.AssemblyInfoInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.AssemblyInfo.cs
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.csproj.CoreCompileInputs.cache
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\ref\HelloWorldCommand.dll
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.pdb
+C:\Users\hoove\Documents\GitHub\BasicCSharpProjects\HelloWorldCommand\obj\Debug\net5.0\HelloWorldCommand.genruntimeconfig.cache

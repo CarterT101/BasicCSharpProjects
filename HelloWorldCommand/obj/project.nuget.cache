@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zOHTI+djjeS5Pib+GnqrIKSx+OonVsbiIjI3G6T5ff+qT/RHAqX8CfXpTJU9FDDIfkdjQ19r1tp1EG4ft3TXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoove\\Documents\\GitHub\\BasicCSharpProjects\\HelloWorldCommand\\HelloWorldCommand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoove\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.14\\microsoft.netcore.app.runtime.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\hoove\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\hoove\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.14\\microsoft.aspnetcore.app.runtime.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
